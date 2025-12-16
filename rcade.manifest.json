@@ -1,0 +1,18 @@
+{
+  "$schema": "https://rcade.dev/manifest.schema.json",
+  "name": "rodrigo-the-game",
+  "display_name": "Rodrigo the Game",
+  "description": "play as Rodrigo",
+  "visibility": "public",
+  "authors": [
+    {
+      "display_name": "greg of course"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "@rcade/input-classic",
+      "version": "1.0.0"
+    }
+  ]
+}
